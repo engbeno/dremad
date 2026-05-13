@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/ibraam/dremad/assets)",
+      "Bash(mv /Users/ibraam/dremad/lib/assets/logo.jpg /Users/ibraam/dremad/assets/)",
+      "Bash(rmdir /Users/ibraam/dremad/lib/assets)",
+      "Bash(flutter pub *)",
+      "Bash(dart run *)"
+    ]
+  }
+}
